@@ -29,6 +29,12 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
+
+    {/* ✅ Google Search Console Verify */}
+  <meta 
+    name="google-site-verification" 
+    content="w0RbMm8zHWXytgHvZOnlQ23ctaLyLugXF0U2EDIL1_8" 
+  />
         {/* ✅ Google AdSense */}
         <script
           async
